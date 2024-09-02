@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "image": "/images/education.jpg",
+        "title": "education"
+    },
+
+    {
+        "id": 2,
+        "image": "/images/health.jpg",
+        "title": "health"
+    },
+
+    {
+        "id": 3,
+        "image": "/images/water.jpg",
+        "title": "water"
+    }
+]

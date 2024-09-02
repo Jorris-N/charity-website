@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "image": "/images/education.jpg",
+        "name": "Jane",
+        "occupation": "owner",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at portitor."
+    },
+
+    {
+        "id": 2,
+        "image": "/images/kid.jpg",
+        "name": "Johnson",
+        "occupation": "customer care",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at portitor."
+    },
+
+    {
+        "id": 3,
+        "image": "/images/education.jpg",
+        "name": "spitch",
+        "occupation": "co-founder",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at portitor."
+    },
+
+    {
+        "id": 4,
+        "image": "/images/kid.jpg",
+        "name": "Hanna",
+        "occupation": "specialist",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at portitor."
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "image": "/images/team-3.jpg",
+        "name": "jenny spenser",
+        "country":"phillipines"
+    },
+    {
+        "id": 2,
+        "image": "/images/team-4.jpg",
+        "name": "zhang chey",
+        "country":"taiwan"
+    },
+    {
+        "id": 3,
+        "image": "/images/team-5.jpg",
+        "name": "jaha izegbe",
+        "country":"botswana"
+    }
+]
